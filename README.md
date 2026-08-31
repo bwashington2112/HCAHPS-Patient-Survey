@@ -6,6 +6,6 @@ The objective of this project is to determine whether hospitals have improved th
   - 7 of the 10 patient experience measures decreased and 3 remained the same between 2015 and 2023 survey reports
   - No measures increased in top-box (most positive) responses
   - Communication about Medicines had the largest decline in top-box responses
-  - Communication about Medicines has the largest bottom-box (least positive) responses
+  - Communication about Medicines has the highest bottom-box (least positive) responses
 # Tools Used
   - Google Sheets
