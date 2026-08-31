@@ -7,5 +7,8 @@ The objective of this project is to determine whether hospitals have improved th
   - No measures increased in top-box (most positive) responses
   - Communication about Medicines had the largest decline in top-box responses
   - Communication about Medicines has the highest bottom-box (least positive) responses
+# Recommendations
+  - Improve communication about medications to patients
+  - Focus on improving areas with higher bottom-box responses
 # Tools Used
   - Google Sheets
